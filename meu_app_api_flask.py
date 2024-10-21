@@ -46,4 +46,5 @@ def get_inspecoes():
 if __name__ == '__main__':
     api_flask_python.run(debug=True)
 ###################################################################################################### API
+# Essa  API recebe informações de um app android
 
